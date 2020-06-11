@@ -1,2 +1,2 @@
-# React-Quiz-App
-Quiz developed with reactjs
+# react-quiz-app
+Quiz application developed with reactjs and react-bootstrap
