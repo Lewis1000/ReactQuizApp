@@ -1,3 +1,7 @@
-# react-quiz-app
-Quiz application developed with reactjs and react-bootstrap
+# React Quiz App
+
+Quiz application developed with reactjs utilizing state to integrate a dynamic score.
+
+Uses react-bootstrap for styling.
+
 https://lewis1000.github.io/react-quiz-app/
